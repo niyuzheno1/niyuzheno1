@@ -28,7 +28,7 @@ He/His/Him
 
 I have my Youtube Channel.
 
-![Youtube Channel](https://raw.githubusercontent.com/niyuzheno1/niyuzheno1/main/youtube.JPG)
+![Youtube Channel](https://raw.githubusercontent.com/niyuzheno1/niyuzheno1/main/github.JPG)
 
 
 [Youtube](https://www.youtube.com/channel/UCweynRkWM6iBEzHGNrd9GKQ)
